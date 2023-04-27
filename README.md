@@ -4,10 +4,6 @@
 </div>
 
 
-
-<img width="15%" align="right" src='https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif'>
-
-
 # Holis! 😊
 
 My name is **Manuela Inclán**, and I'm a **Junior Full Stack Developer & Visual Artist**. 
