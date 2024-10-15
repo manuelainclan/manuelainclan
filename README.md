@@ -11,11 +11,11 @@ This is my Git, and I hope you like it! ✨
 
 ## About me 👩‍💻
 
-When I was studying a Master's in Interactive Installations, I learned a bit about Arduino and Processing, which was my first contact with creative programming. Since then, I've always wanted to give myself a chance to learn more programming languages and become a programmer. I decided to learn web development because of its job opportunities and started the Adalab bootcamp, where I learned a lot about Front End and a bit about Back End. At the moment, **I'm looking for my first job opportunity as a programmer**.
+When I was studying a Master's in Interactive Installations, I learned a bit about Arduino and Processing, which was my first contact with creative programming. Since then, I've always wanted to give myself a chance to learn more programming languages and become a programmer. I decided to learn web development because of its job opportunities and started the Adalab bootcamp, where I learned a lot about Front End and a bit about Back End. Since then, I have gained experience working as a programmer.
 
-✏️ Currently, I'm consolidating my knowledge in **JavaScript**, especially with **React**, but I would love to continue learning and developing Back End projects professionally, and start learning other languages such as Java, to become a complete **Full Stack Developer!**
+✏️ Currently, I am continuing to consolidate my knowledge in **JavaScript**, especially with **React**, and exploring new languages. I am also working with **TypeScript** and testing using technologies like **Jest** and **Cypress**.
 
-💻 While looking for work, I will continue developing personal projects that you can follow from here. If you want to collaborate with me, please let me know.
+💻 I will be working on personal projects that you can follow from here. If you would like to collaborate with me on any project, please let me know!
 
 🎨 In addition to all this, I'm a visual artist. For me, interactivity is very important because I believe that's where the world of programming meets contemporary art. 👀 You can see my artistic projects at [manuelainclan.com](https://manuelainclan.com)  (here's my final master's project, which was an animated dancing sculpture) and on my Instagram account [@t_a_n_g_u_a_y](https://www.instagram.com/t_a_n_g_u_a_y/?hl=es), where you can see my most recent artistic works.
 
