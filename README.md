@@ -47,9 +47,6 @@ Thank you for visiting my profile!✨
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt=“Git” width="40" height="40"/>
     </a>
-    <a href="https://zeplin.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.lennu.net/wp-content/uploads/2015/11/zeplin_logo-523x510.png" alt=“Zeplin” width="40" height="40"/>
-    </a>
     <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt=“Slack” width="40" height="40"/>
     </a>
