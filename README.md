@@ -6,7 +6,7 @@
 
 # Holis! 😊
 
-My name is **Manuela Inclán**, and I'm a **Junior Full Stack Developer & Visual Artist**. 
+My name is **Manuela Inclán**, and I'm a **Full Stack Developer & Visual Artist**. 
 This is my Git, and I hope you like it! ✨ 
 
 ## About me 👩‍💻
